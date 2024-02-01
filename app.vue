@@ -12,6 +12,12 @@ useHead({
   htmlAttrs: {
     lang: 'idn',
   },
+  link: [
+    {
+      rel: 'canonical',
+      href: `https://blogdigitalmarketing.netlify.app`,
+    },
+  ],
   meta: [
     {
       name: 'google-site-verification',
