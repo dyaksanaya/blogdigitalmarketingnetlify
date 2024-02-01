@@ -21,7 +21,7 @@ export default defineNuxtConfig({
     strictNuxtContentPaths: true,
   },
   site: {
-    url: "https://digitalmarketingcorner.netlify.app/",
+    url: "https://blogdigitalmarketing.netlify.app/",
     identity: {
       type: "Person",
     },

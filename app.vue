@@ -7,7 +7,7 @@ const twitterDescription
   = 'My blog website, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc'
 const image
   = ''
-const mySite = 'https://digitalmarketingcorner.netlify.app/'
+const mySite = 'https://blogdigitalmarketing.netlify.app/'
 useHead({
   htmlAttrs: {
     lang: 'idn',
